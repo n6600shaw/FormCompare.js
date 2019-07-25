@@ -30,12 +30,12 @@ JavaScript
 var field = "email,postal,address" //specify the specific field to compare
 var element = "input,textarea" //specify the element to compare
 
-#('#testform').formcompare(field,element)
+#('#testform').FormCompare(field,element)
 
 //compare all fields
 var element = "input,textarea"
 
-#('#testform').formcompare('ALL',element)
+#('#testform').FormCompare('ALL',element)
 ```
 
 JSON object in form post request
