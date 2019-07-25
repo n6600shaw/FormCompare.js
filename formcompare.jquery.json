@@ -1,0 +1,31 @@
+{
+  "name": "formcompare",
+  "title": "jQuery FormCompare",
+  "description": "Compare form field changes",
+  "keywords": [
+    "jquery-plugins",
+    "form compare",
+    "form changes"
+  ],
+  "version": "1.0",
+  "author": {
+    "name": "Xiaolong Liu",
+    "url": "https://github.com/n6600shaw"
+  },
+  "maintainers": [
+    {
+      "name": "Xiaolong Liu",
+      "url": "https://github.com/n6600shaw"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "",
+      "url": ""
+    }
+  ],
+  "bugs": "https://github.com/n6600shaw/formcompare/issues",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
