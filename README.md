@@ -2,6 +2,13 @@
 
 FormCompare.js is a jQuery plugin to compare html form fields value changes upon submittion, and post the detailed changes.
 
+## Install
+
+Use npm:
+````
+$ npm install formcompare
+````
+Or donwload the js file to include in your project.
 
 
 ## Usage
